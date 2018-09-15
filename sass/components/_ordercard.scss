@@ -1,0 +1,22 @@
+.regioncard {
+    display: inline-block;
+    border: 1px solid $color-bt-medium-grey;
+    border-radius: .3rem;
+    width: 40rem;
+
+    &__header {
+        font-size: 2rem;
+    }
+
+    &__heading {
+        display: inline-block;
+    }
+
+    &__refresh {
+        
+    }
+
+    &__circleprogress {
+
+    }
+}

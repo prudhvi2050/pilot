@@ -1,0 +1,22 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  box-sizing: border-box; }
+
+.regioncard {
+  display: inline-block;
+  border: 1px solid #666666;
+  border-radius: .3rem;
+  width: 40rem; }
+  .regioncard__header {
+    font-size: 2rem; }
+  .regioncard__heading {
+    display: inline-block; }

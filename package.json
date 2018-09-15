@@ -1,0 +1,22 @@
+{
+  "name": "pilot",
+  "version": "1.0.0",
+  "description": "pilot dashboard",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prudhvi2050/pilot.git"
+  },
+  "author": "Prudhvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prudhvi2050/pilot/issues"
+  },
+  "homepage": "https://github.com/prudhvi2050/pilot#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
